@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/movie/static/css/main.d66e8713.css",
-    "main.js": "/movie/static/js/main.2ebcbd95.js",
-    "static/js/787.6ac643bb.chunk.js": "/movie/static/js/787.6ac643bb.chunk.js",
-    "index.html": "/movie/index.html",
-    "main.d66e8713.css.map": "/movie/static/css/main.d66e8713.css.map",
-    "main.2ebcbd95.js.map": "/movie/static/js/main.2ebcbd95.js.map",
-    "787.6ac643bb.chunk.js.map": "/movie/static/js/787.6ac643bb.chunk.js.map"
+    "main.css": "/Arcitech_Assignment/static/css/main.d66e8713.css",
+    "main.js": "/Arcitech_Assignment/static/js/main.3aca067d.js",
+    "static/js/787.6ac643bb.chunk.js": "/Arcitech_Assignment/static/js/787.6ac643bb.chunk.js",
+    "index.html": "/Arcitech_Assignment/index.html",
+    "main.d66e8713.css.map": "/Arcitech_Assignment/static/css/main.d66e8713.css.map",
+    "main.3aca067d.js.map": "/Arcitech_Assignment/static/js/main.3aca067d.js.map",
+    "787.6ac643bb.chunk.js.map": "/Arcitech_Assignment/static/js/787.6ac643bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d66e8713.css",
-    "static/js/main.2ebcbd95.js"
+    "static/js/main.3aca067d.js"
   ]
 }
