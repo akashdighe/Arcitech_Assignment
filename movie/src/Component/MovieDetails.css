@@ -1,0 +1,55 @@
+/* MovieList.css */
+.movie-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center; /* Center cards horizontally */
+    align-items: center; /* Center cards vertically */
+  }
+  
+  .movie-card {
+    cursor: pointer;
+    transition: transform 0.2s;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px; /* Set a fixed width for the card */
+  
+    &:hover {
+      transform: scale(1.05);
+    }
+  }
+  
+  .movie-card img {
+    width: 100%; /* Make the image take up the full width of the card */
+    height: auto;
+    border-radius: 8px 8px 0 0;
+  }
+  
+  .movie-details {
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 0 0 8px 8px;
+  
+    h3 {
+      margin: 0;
+      font-size: 16px;
+    }
+  
+    p {
+      margin: 8px 0 0;
+      font-size: 14px;
+      color: #888;
+    }
+  }
+  .imgCard{
+    color: aliceblue;
+  }
+  
+  /* Media query for large screens */
+  @media screen and (min-width: 1200px) {
+    .movie-card {
+      width: calc(20% - 20px); /* 20% width with 20px gap between cards */
+    }
+  }
+  
